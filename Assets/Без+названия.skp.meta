@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 2a7d5a4e45bafc940b96073187b90749
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 0b89ceeeda9480cab863379fee5637d8
+  longitude: 61.379564
+  latitude: 55.143109
+  northCorrection: 358.67004797376194
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 14.055299, y: 7.7355356, z: -2.769227}
+      lookAt: {x: -242.42673, y: -54.912518, z: -0.09977578}
+      up: {x: -0.23725818, y: 0.97144353, z: 0.0024693706}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cam
+    100002: CamAttach
+    100004: CamAttach 1
+    100006: CamMount
+    100008: CamMount 1
+    100010: Google Earth Terrain
+    100012: Security Camera
+    100014: Security Light
+    100016: //RootNode
+    400000: Cam
+    400002: CamAttach
+    400004: CamAttach 1
+    400006: CamMount
+    400008: CamMount 1
+    400010: Google Earth Terrain
+    400012: Security Camera
+    400014: Security Light
+    400016: //RootNode
+    2100000: _defaultMat
+    2100002: '[Roofing_Slate_Dark]'
+    2100004: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B"
+    2100006: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B#2"
+    2100008: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B#1"
+    2100010: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B#3"
+    2100012: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B#4"
+    2100014: '[Color_006]'
+    2100016: '[Color_002]'
+    2100018: Red
+    2100020: '[Color_009]'
+    2100022: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B#7"
+    2100024: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B#5"
+    2100026: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B#6"
+    2100028: '[Color_008]'
+    2100030: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B#8"
+    2100032: 002
+    2100034: Google Earth Snapshot#1
+    2100036: '[Translucent_Glass_Corrugated]1'
+    2100038: '[Translucent_Resin_Crush_Gray]2'
+    2100040: '[Metal_Corrogated_Shiny]'
+    2300000: Cam
+    2300002: CamAttach
+    2300004: CamAttach 1
+    2300006: CamMount
+    2300008: CamMount 1
+    2300010: Google Earth Terrain
+    2300012: Security Light
+    2300014: //RootNode
+    3300000: Cam
+    3300002: CamAttach
+    3300004: CamAttach 1
+    3300006: CamMount
+    3300008: CamMount 1
+    3300010: Google Earth Terrain
+    3300012: Security Light
+    3300014: //RootNode
+    4300000: "Mesh \u0411\u0435\u0437+\u043D\u0430\u0437\u0432\u0430\u043D\u0438\u044F"
+    4300002: Mesh Google Earth Terrain
+    4300004: Mesh Cam
+    4300006: Mesh CamAttach
+    4300008: Mesh CamMount
+    4300010: Mesh Security Light
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 002
+    second: {fileID: 2100000, guid: e1ec4c3149e6c8b428fa5e28d52f1eb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100000, guid: e1ec4c3149e6c8b428fa5e28d52f1eb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_002]'
+    second: {fileID: 2100000, guid: e1ec4c3149e6c8b428fa5e28d52f1eb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_006]'
+    second: {fileID: 2100000, guid: e1ec4c3149e6c8b428fa5e28d52f1eb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: e1ec4c3149e6c8b428fa5e28d52f1eb5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

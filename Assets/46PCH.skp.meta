@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: d27d85be43c79b44ca315b5ba9598730
+SketchUpImporter:
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000600000007000000
+  assetHash:
+    serializedVersion: 2
+    Hash: d2e3e45e74dfd4724e65f390b520d578
+  longitude: 61.380012
+  latitude: 55.143305
+  northCorrection: 358.6704125627013
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -24.215206, y: 9.341069, z: -27.401945}
+      lookAt: {x: -48.983356, y: -47.70775, z: 195.518}
+      up: {x: -0.027220828, y: 0.96914226, z: 0.24499471}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Google Earth Terrain
+    100004: Group 6
+    400000: //RootNode
+    400002: Google Earth Terrain
+    400004: Group 6
+    2100000: _defaultMat
+    2100002: 17
+    2100004: 20
+    2100006: 003
+    2100008: 002
+    2100010: 12
+    2100012: 001
+    2100014: 005
+    2100016: 23
+    2100018: '[Color_007]'
+    2100020: 30#1
+    2100022: 13
+    2100024: 004
+    2100026: 09#1
+    2100028: 09
+    2100030: '[Fencing_Railing_Metal2]'
+    2100032: '[Brick_Rough_Dark]'
+    2100034: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B"
+    2100036: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B#1"
+    2100038: 29
+    2100040: Google Earth Snapshot#1
+    2300000: //RootNode
+    2300002: Google Earth Terrain
+    2300004: Group 6
+    3300000: //RootNode
+    3300002: Google Earth Terrain
+    3300004: Group 6
+    4300000: Mesh 46PCH
+    4300002: Mesh Google Earth Terrain
+    4300004: Mesh Group 6
+    6400000: //RootNode
+    6400002: Google Earth Terrain
+    6400004: Group 6
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 09_tint0x878584FF
+    second: {fileID: 2800000, guid: 88eab9de89d90254d80636fcd18c8ad2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 29
+    second: {fileID: 2800000, guid: ade248cce6f4d4b4d9d98c5863e9fd86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 29#1
+    second: {fileID: 2800000, guid: 3ec02129feec50a4589e1a18787114e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 30
+    second: {fileID: 2800000, guid: 4a140588706e77e4c9ec71603f639f14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brick_Rough_Dark
+    second: {fileID: 2800000, guid: 0655f3ed1d86afd499b0629053c94fa0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fencing_Railing_Metal2_tint0x514E4EFF
+    second: {fileID: 2800000, guid: 9402abf6a0cad0149a3e721052877d62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Google Earth Snapshot
+    second: {fileID: 2800000, guid: 0859b360b8b528d4aafe4b097a5c64ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Aluminum_Anodized_tint0xEBF3FFFF
+    second: {fileID: 2800000, guid: 9ff0b39cb16cf1f459463a271238e34a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roofing_Shingles_GAF_Estates_tint0x544F4CFF
+    second: {fileID: 2800000, guid: 1c3f69dc2cd3f814db758610b892c226, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B"
+    second: {fileID: 2800000, guid: be15b40bfe4b5594ba27148374f63553, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B#3"
+    second: {fileID: 2800000, guid: dd37658413f2de44cbf71481bb04d85e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B(11)"
+    second: {fileID: 2800000, guid: 135de34af53a23c42be78db9e6746ee3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B(3)"
+    second: {fileID: 2800000, guid: 8f6d4ac379f4ef846b477473fb4a1ae5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B(6)"
+    second: {fileID: 2800000, guid: 3a72b66393a37784088917bdab2cff1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B(8)"
+    second: {fileID: 2800000, guid: 85a504fb0f5e2b442aaa59009aecb21b, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 1
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 0
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
